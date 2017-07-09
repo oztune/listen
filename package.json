@@ -1,0 +1,14 @@
+{
+  "name": "listen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oz Michaeli <oztune+npm@gmail.com> (https://appfigures.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
+}
